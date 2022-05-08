@@ -1,4 +1,29 @@
-[{
+[{  {
+      "chainId": 3,
+      "saleManagerAddress": "0x7927f89670F942169476b006966dd6ECCdc7425c",
+      "saleId": "0x15cede2fbb3de410cec44063d2e21bda9fb94688c1d26f28ced32d29478bc307",
+      "saleName": "NIKA",
+      "logo": "https://wampi.ru/image/RuQY876",
+      "favicon": "https://wampi.ru/image/RuQYB9y",
+      "projectWebsite": "https://mobile.twitter.com/ParusSusana",
+      "saleDescription": "NIKA(NIKA)",
+      "access": {
+        "limitToRegions": ["US", "GB", "CA"],
+	      "merkleProofs": "https://tokensoft.mypinata.cloud/ipfs/QmXeY4d1iAJaBrQsTEX3hW6Htpa5XX5BjnXLwRLpJH7h2j"
+      },
+      "socials": {
+        "twitter": "https://twitter.com/ParusSusana?s=20&t=OMC5DRlUWkUX71-nwbSk-A",
+        "discord": "https://discord.gg/Эмиль#7932",
+        "telegram": "https://t.me/@Emil_K9"
+      },
+      "documents": [
+        {
+          "name": "Purchase Agreement",
+          "uri": "https://example.com/qtz.pdf",
+          "appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+        }
+      ]
+  },
         "chainId": 3,
       "saleManagerAddress": "0xb2a2934de53c1dd6c330ee1db8ccb138a64837db",
       "saleId": "0xe41fddcaf7d5a293d2e07e43f99c81b5015abb3461d4b15b5cbb31ba8b66c5ca",
